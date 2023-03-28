@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartingTrackStatistic", "KartingTrackStatistic\KartingTrackStatistic.csproj", "{FED63AF1-3397-4908-A65F-F1281AC31878}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KartingTrackStatistic.Tests", "KartingTrackStatistic.Tests\KartingTrackStatistic.Tests.csproj", "{504DCED6-920D-4C4B-B0DF-4BDC3E5348BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED63AF1-3397-4908-A65F-F1281AC31878}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED63AF1-3397-4908-A65F-F1281AC31878}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED63AF1-3397-4908-A65F-F1281AC31878}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED63AF1-3397-4908-A65F-F1281AC31878}.Release|Any CPU.Build.0 = Release|Any CPU
+		{504DCED6-920D-4C4B-B0DF-4BDC3E5348BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504DCED6-920D-4C4B-B0DF-4BDC3E5348BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504DCED6-920D-4C4B-B0DF-4BDC3E5348BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504DCED6-920D-4C4B-B0DF-4BDC3E5348BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFFC0175-D187-4B93-ABD5-CD4735D206E0}
+	EndGlobalSection
+EndGlobal
