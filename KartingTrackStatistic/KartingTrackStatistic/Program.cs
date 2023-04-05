@@ -4,7 +4,7 @@
     {
         public static void Main(string[] args)
         {
-            WritelineColor(ConsoleColor.Magenta, "Hello to the [Student's Grades Book] console app.");
+            WritelineColor(ConsoleColor.Magenta, "Hello to the [Karting Track Statistics] console app.");
 
             bool CloseApp = false;
 
